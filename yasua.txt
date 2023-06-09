@@ -5,5 +5,10 @@ yasua2
 5
 
 76
+
 hehe
 amend
+
+hehe
+
+amend --a
